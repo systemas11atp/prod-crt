@@ -1,0 +1,29 @@
+/***************************************************
+  Mixins Themes 
+/***************************************************/
+/* Mixin Normal*/
+/* Mixin Clear */
+/* Mixin Border */
+/*background RGBA
+============================================*/
+/***************************************************
+  Mixins RTL Themes 
+/***************************************************/
+/************************************ 
+	Override Bootstrap 
+*************************************/
+/**
+ * Web Application Prefix Apply For Making Owner Styles
+ */
+/**
+ *   Blocks Layout Selectors 
+ */
+/***********************************************************************/
+/* Home 5 */
+#index #wrapper {
+  padding-top: 0; }
+
+#index #main .page-footer {
+  margin-bottom: 0; }
+
+/*# sourceMappingURL=profile1500887236.css.map */

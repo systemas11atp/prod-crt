@@ -1,0 +1,10 @@
+****templates change:
+
+
+*** tpl file
+
+templates\catalog\_partials\miniatures\pack-product.tpl
+templates\catalog\_partials\product-cover-thumbnails.tpl
+
+
+
